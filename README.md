@@ -1,12 +1,10 @@
-# Hi there 👋
+# 👋Hi, I'm Bar! 
 
-Here’s a bit about me:
-
-💻 **Tech Enthusiast**: Hands-on experience in software development, with a focus on **Web Development**, **Blockchain**, and **IoT**.
-🧑‍🔬 **Researcher**:  Published HCI research on a product I invented, [Kitchef](https://dl.acm.org/doi/10.1145/3613905.3650970), and conduct **Blockchain** research at the **University of Cambridge**.
-🧠 **Curious Mind**: Always eager to expand my skill set and explore new technologies.
-🎯 **Problem Solver**: Love tackling complex challenges and turning ideas into real-world solutions.
-🤝 **Team Player**: Enjoy collaborating on exciting projects with cross-functional teams!
+💻 **Tech Enthusiast**: Hands-on experience in software development, with a focus on **Web Development**, **Blockchain**, and **IoT**. </br>
+🧑‍🔬 **Researcher**:  Published HCI research on a product I invented, [Kitchef](https://dl.acm.org/doi/10.1145/3613905.3650970), and conduct **Blockchain** research at the **University of Cambridge**. </br>
+🧠 **Curious Mind**: Always eager to expand my skill set and explore new technologies. </br>
+🎯 **Problem Solver**: Love tackling complex challenges and turning ideas into real-world solutions. </br>
+🤝 **Team Player**: Enjoy collaborating on exciting projects with cross-functional teams! </br>
 
 # 🛠️ Tech Stack:
 
